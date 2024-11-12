@@ -11,7 +11,6 @@ Strict equality (===) is a powerful tool in JavaScript for precise value compari
 *  `Html`
 *  `JavaScript`
 
-
 To get started, we need to create 2 types of files: index.html and index.js after which we will attach our javascript file to the html code with a command such as: 
 ```JavaScript
 // === strict equalityy operator ( compare if values & datatype are equal )
