@@ -25,3 +25,8 @@ else {
 console.log("That is NOT Pi");
 }
 ```
+
+## License: 
+This project uses the: [MIT](https://github.com/istbega/Strict-equality-js/blob/main/LICENSE)
+
+To contact the author of the project, write to email behinmaksym@gmail.com
