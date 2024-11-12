@@ -1,4 +1,5 @@
-# Strict-equality-js
+## **Description:**
+Strict equality (===) is a powerful tool in JavaScript for precise value comparison. Unlike loose equality, it does not perform automatic type coercion. This means that 3.14 and "3.14" are considered different values because they have different data types.
 
 ## Technologies used:
 *  `Html`
