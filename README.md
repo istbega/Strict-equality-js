@@ -18,7 +18,7 @@ JavaScript
 // === strict equalityy operator ( compare if values & datatype are equal )
 const PI = 3.14;
 
-if (PI == "3.14") {
+if (PI === "3.14") {
 console.log("That is PI");
 }
 else {
